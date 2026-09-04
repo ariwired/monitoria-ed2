@@ -10,6 +10,13 @@ Este repositório possui caráter complementar e não substitui os materiais ofi
 
 ## Encontros
 
+### Horários
+
+Quarta 13hrs - 17hrs
+Sexta 13hrs - 17hrs
+
+**OS HORÁRIOS PODEM VARIAR DEPENDENDO DA DEMANDA**
+
 O arquivo `changelog.txt` mantém o registro cronológico dos encontros realizados, contendo as respectivas datas, os conteúdos abordados, os materiais utilizados e os links para as gravações.
 
 [Consultar registro dos encontros](./changelog.txt)
