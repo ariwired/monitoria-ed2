@@ -10,7 +10,7 @@ Este repositório possui caráter complementar e não substitui os materiais ofi
 
 ## Encontros
 
-O arquivo [`changelog.txt`](./changelog.txt) mantém o registro cronológico dos encontros realizados, contendo as respectivas datas, os conteúdos abordados, os materiais utilizados e os links para as gravações.
+O arquivo `changelog.txt` mantém o registro cronológico dos encontros realizados, contendo as respectivas datas, os conteúdos abordados, os materiais utilizados e os links para as gravações.
 
 [Consultar registro dos encontros](./changelog.txt)
 
