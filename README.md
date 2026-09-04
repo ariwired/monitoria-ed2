@@ -13,6 +13,7 @@ Este repositório possui caráter complementar e não substitui os materiais ofi
 ### Horários
 
 Quarta 13hrs - 17hrs
+
 Sexta 13hrs - 17hrs
 
 **OS HORÁRIOS PODEM VARIAR DEPENDENDO DA DEMANDA**
