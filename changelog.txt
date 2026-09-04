@@ -1,0 +1,25 @@
+CHANGELOG 
+MONITORIA DE ESTRUTURA DE DADOS 2
+
+======================================================================
+
+ÚLTIMO ENCONTRO 
+Data: DD/MM/AAAA
+
+Conteúdos abordados:
+- Conteúdo 1
+- Conteúdo 2
+
+Materiais utilizados:
+- Lista de exercícios: [caminho/link]
+- Resoluções: [caminho/link]
+- Implementações: [caminho/link]
+- Materiais extras: [caminho/link]
+
+Gravação:
+[link YouTube]
+
+Observações:
+[]
+
+======================================================================
