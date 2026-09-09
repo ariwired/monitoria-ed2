@@ -36,6 +36,12 @@ O material principal utilizado como referência para a monitoria é o conteúdo 
 
 As gravações dos encontros semanais, aulas e resoluções serão disponibilizadas em uma playlist no YouTube. [Acesse aqui a playlist](https://www.youtube.com/playlist?list=PLPoHJyEvq4bE)
 
+## Animações
+
+As animações utilizadas nos materiais de apoio e nas resoluções foram organizadas em uma playlist separada. Elas servem como complemento visual para acompanhar o comportamento dos algoritmos e das estruturas apresentadas durante os exercicios.
+
+[Acesse aqui a playlist de animações](https://www.youtube.com/playlist?list=PLLxHv2GHRIQE)
+
 ---
 
 ## Conteúdos
