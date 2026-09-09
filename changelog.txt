@@ -4,6 +4,27 @@ MONITORIA DE ESTRUTURA DE DADOS 2
 ======================================================================
 
 ÚLTIMO ENCONTRO 
+Data: 09/09/2026
+
+Conteúdos abordados:
+- Árvores
+
+Materiais utilizados:
+- Lista de exercícios: lista_exercicios/Lista1_Arvores_Monitoria
+- Resoluções: resolucoes/Resolucao_Lista1_Professor.ipynb
+
+Observações:
+Como não houve procura pela reunião neste dia, foi elaborado um material de apoio mais detalhado para que a turma possa estudar no próprio ritmo. O notebook de resoluções inclui explicações, exemplos e animações para facilitar a visualização do comportamento dos algoritmos.
+
+Também foi elaborada uma lista com 8 questões adicionais para prática ao longo da semana e preparação para a prova. Permaneço disponível para tirar dúvidas durante a semana.
+
+======================================================================
+
+======================================================================
+
+ESTRUTURA PARA COPIAR
+
+ÚLTIMO ENCONTRO 
 Data: DD/MM/AAAA
 
 Conteúdos abordados:
