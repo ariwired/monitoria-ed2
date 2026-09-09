@@ -1,0 +1,3 @@
+ipykernel==7.3.0
+manim==0.21.0
+manim-dsa==0.4.0

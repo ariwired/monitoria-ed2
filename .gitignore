@@ -13,9 +13,6 @@ env/
 
 # Manim
 media/
-*.mp4
-*.mov
-*.webm
 
 # Cache
 .cache/
