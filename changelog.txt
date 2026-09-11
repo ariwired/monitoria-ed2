@@ -3,8 +3,23 @@ MONITORIA DE ESTRUTURA DE DADOS 2
 
 ======================================================================
 
+ÚLTIMO ENCONTRO
+
+Data: 11/09/2026 (Sexta)
+
+Conteúdos abordados:
+- Árvores 
+
+Gravação:
+Gravações de video explicações da Lista 1. 
+
+Observações:
+Como não houve procura pela reunião neste dia, foi feito um vídeo respondendo questões da Lista 1 do professor de forma detalhada para que a turma possa estudar no próprio ritmo. 
+
+======================================================================
+
 ÚLTIMO ENCONTRO 
-Data: 09/09/2026
+Data: 09/09/2026 (Quarta)
 
 Conteúdos abordados:
 - Árvores
