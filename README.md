@@ -71,8 +71,9 @@ Recomenda-se que o estudante possua conhecimentos básicos dos seguintes conteú
 
 ```text
 .
-├── changelog.txt
+├── animacoes/
 ├── listas_exercicio/
+├── material_apoio/
 ├── resolucoes/
 └── README.md
 ```
